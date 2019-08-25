@@ -1,0 +1,22 @@
+
+.movie-div {
+    display: inline-block;
+    width: 182px;
+    height: 340px;
+    margin: 10px;
+    vertical-align: top;
+    position: relative;
+    background-color: #444444;
+    box-shadow: 10px 10px 5px #000000;
+    overflow: none;
+    text-align: center;
+}
+
+.movie-link {
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
